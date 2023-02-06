@@ -1,0 +1,473 @@
+la personne;человек
+l'homme;мужчина
+la femme;женщина, жена
+l'enfant;ребенок
+le garçon;мальчик
+la fille;девочка, дочь
+l'ami;друг
+l'invité;гость
+la famille;семья
+le parents;родители
+le père;отец
+la mère;мать
+le fils;сын
+le mari;муж
+le grand-père;дед
+la grand-mère;бабушка
+le beau-père;тесть, свёкор
+la belle-mère;тёща, свекровь
+l'oncle;дядя
+la tante;тетя
+le frère;брат
+la soeur;сестра
+le cousin; двоюродный брат
+la cousine;двоюродная сестра
+le travail;работа
+l'enseignant;учитель
+le conducteur;водитель
+le travailleur;рабочий
+l'ingénieur;инженер
+le docteur;врач
+l'infirmière;медсестра
+le vendeur;продавец
+le comptable;бухгалтер
+le peintre;художник
+l'étudiant;студент
+le pays;страна
+Russie;Россия
+France;Франция
+l'animal;животное
+le chat;кошка
+le chien;собака
+l'oiseau;птица
+la ville;город
+l'école;школа
+le théâtre;театр
+la rue;улица, дорога
+la place;площадь
+la maison;дом
+l'église;церковь
+la rivière;река
+le café;кафе
+l'hôtel;гостиница
+le jardin;сад
+le parc;парк
+la banque;банк
+l'arrêt;остановка
+le cinéma;cinéma
+le pont;мост
+l'intersection;перекрёсток
+la forêt;лес
+l'hôpital;больница
+le marché;рынок
+la police;полиция
+la poste;почта
+la gare;станция, вокзал
+le centre;центр
+le magasin;магазин
+la montagne;гора
+le appartement;квартира
+la cuisine;кухня
+le balcon;балкон
+la salle de bain;ванная
+la douche;душ
+les cabinets;туалет
+le sol;пол
+le plafond;потолок
+le étage;этаж
+le hall;коридор
+la chambre à coucher;спальня
+le salon;зал
+la porte;дверь
+la fenêtre;окно
+la clé;ключ
+le lit;кровать
+la couverture;одеяло
+le oreiller;подушка
+la table;стол
+la chaise;стул
+le fauteuil;кресло
+le frigo;холодильник
+le sofa;диван
+le miroir;зеркало
+la nourriture;еда
+le pain;хлеб
+le beurre;масло
+le fromage;сыр
+le saucisson;колбаса
+la saucisse;сосиска
+l'huile;растительное масло
+le poivre;горький перец
+le sel;соль
+la baie;ягода
+le miel;мёд
+la confiture;варенье
+le champignon;гриб
+l'oignon;лук (репчатый)
+la banane;banane
+la carotte;морковь
+la poire;груша
+la betterave;свекла
+les fruits;фрукты
+le melon;дыня
+la pastèque;арбуз
+le gâteau;торт
+le chocolat;шоколад
+la viande;мясо
+la pomme de terre;картофель
+la salade;салат
+la tomate;помидор
+la concombre;огурец
+le chou;капуста
+la bouillie;каша
+le soupe;суп
+le sandwich;бутерброд
+le soda;газировка
+l'eau;вода
+le café;кофе
+le thé;чай
+le lait;молоко
+le jus;сок
+la pomme;яблоко
+le raisins;виноград
+l'orange;апельсин
+l'ananas;ананас
+l'abricot;абрикос
+le sucre;сахар
+le riz;рис
+las nouilles;лапша
+le bœuf;говядина
+le porc;свинина
+le poulet;курица
+la côtelette;котлета
+le citron;лимон
+les pois;горох
+la brioche;булочка
+le poisson;рыба
+la pâtisserie;выпечка
+le bonbon;конфета
+la glace;мороженое
+le écrou;орех
+le oeuf;яйцо
+la pêche;персик
+la tasse;чашка
+la verre;стакан
+la assiette;тарелка
+la cuillère;ложка
+la fourchette;вилка
+le couteau;нож
+la soucoupe;блюдце
+la bouteille;бутылка
+la serviette;салфетка, полотенце
+le petit déjeuner;завтрак
+le déjeuner;обед
+le dîner;ужин
+l'avion;самолет
+la voiture;автомобиль
+le tram;трамвай
+le bus;автобус
+le train;поезд
+le vélo;велосипед
+le temps;время
+l'année;год
+la semaine;неделя
+l'heure;час
+la minute;минута
+la fois;раз
+hier;вчера
+aujourd'hui;сегодня
+demain;завтра
+le jour;день
+le matin;утро
+la soirée;вечер
+la nuit;ночь
+Lundi;понедельник
+Mardi;вторник
+Mercredi;среда
+Jeudi;четверг
+Vendredi;пятница
+Samedi;суббота
+Dimanche;воскресенье
+le mois;месяц
+Janvier;январь
+Février;февраль
+Mars;март
+Avril;апрель
+Mai;май
+Juin;июнь
+Juillet;июль
+Août;август
+Septembre;сентябрь
+Octobre;октябрь
+Novembre;ноябрь
+Décembre;декабрь
+le printemps;весна
+l'été;лето
+l'automne;осень
+l'hiver;зима
+le nom;имя, фамилия
+l'adresse;адрес
+le numéro;номер
+l'anniversaire;день рождения
+marié(e);женатый (замужняя)
+la chose;вещь
+le stylo;ручка
+le livre;книга
+les échecs;шахматы
+le téléphone;телефон
+l'horloge;часы
+le peigne;расчёска
+le téléviseur;телевизор
+le fer;утюг, железо
+le savon;мыло
+la radio;radio
+le sac;сумка
+la carte;карта, открытка
+la valise;чемодан
+le cadeau;подарок
+la caméra;камера
+l'ordinateur;компьютер
+le film;фильм
+la fleur;цветок
+le vase;ваза
+l'image;картина
+le mouchoir;носовой платок
+la balle;мяч
+le ballon;воздушный шар(ик)
+le jouet;игрушка
+l'addition;счёт (в ресторане), (итоговая) сумма
+l'enveloppe;конверт
+le papier;бумага
+le journal;газета
+la lettre;письмо
+le billet;билет
+les vêtements;одежда
+la chaussures;обувь
+le manteau;пальто
+la robe;платье
+la chemise;рубашка
+la jupe;юбка
+le gant;перчатка
+le chapeau;шляпа
+la veste;пиджак, куртка
+l'écharpe;шарф
+las chaussettes;носки
+le pull;свитер
+le T-shirt;футболка
+la cravate;галстук
+le pantalon;брюки
+que;что
+quel;какой
+qui;кто
+où;где, куда
+d'ou;откуда
+comment;как
+pourquoi;почему
+quand;когда
+je;я
+tu;ты
+il;он
+elle;она
+nous;мы
+vous;вы
+ils, elles;они
+mon;мой
+ton;твой
+son;его, её
+notre;наш
+votre;ваш
+leur;их
+de;из, от (передает род. падеж)
+à;к
+sur;на
+sous;под
+derrière;позади
+avec;с
+sans;без
+avant;перед, до
+entre;между
+en;в
+près de;возле
+après;после
+pour;для
+un;один
+deux;два
+trois;три
+quatre;четыре
+cinq;пять
+six;шесть
+sept;семь
+huit;восемь
+neuf;девять
+dix;десять
+onze;одиннадцать
+douze;двенадцать
+treize;тринадцать
+quatorze;четырнадцать
+quinze;пятнадцать
+seize;шестнадцать
+dix-sept;семнадцать
+dix-huit;восемнадцать
+dix-neuf;девятнадцать
+vingt;двадцать
+trente;тридцать
+quarante;сорок
+cinquante;пятьдесят
+soixante;шестьдесят
+quatre-vingts;восемьдесят
+quatre-vingt-dix;девяносто
+cent;сто
+mille;тысяча
+vieux;старый
+jeune;молодой
+nouveau;новый
+grand;большой
+petit;маленький
+plein;полный
+bon;хороший
+mauvais;плохой
+tôt;ранний
+tard;поздний
+dernier;последний, прошлый
+suivant;следующий
+gratuit;бесплатный
+libre;свободный
+chaud;жаркий, горячий
+chaud;тёплый
+froid;холодный
+haut;высокий
+bas;низкий
+long;длинный, долгий
+facile;лёгкий
+lourd;тяжёлый
+sombre;тёмный
+cher;дорогой
+pas cher;дешёвый
+gauche;левый
+droit;справа
+correct;правильный
+rapide;быстрый
+lentement;медленный
+doux;мягкий
+dur;твёрдый, крепкий, трудный
+belle;красивый
+attentivement;внимательный
+triste;печальный
+heureux;радостный, счастливый
+fini;готовый
+en colère;сердитый
+principal;основной, главный
+la couleur;цвет
+noir;чёрный
+bleu;голубой, синий
+brun;коричневый
+vert;зелёный
+gris;серый
+rouge;красный
+blanc;белы
+jaune;жёлтый
+oui;да
+non;нет
+ne pas;не
+cet;этот, тот
+ici;здесь, сюда
+là;там, туда
+maintenant;сейчас, теперь
+déjà;уже
+encore;еще
+beaucoup (de);много
+peu (de);мало
+très;очень
+chaque;каждый
+tout;все
+tous;всё
+tel;вской
+et;и
+ou;или
+parce que;потому что, так как
+être;быть, являться
+avoir;иметь
+pouvoir;мочь
+devoir;быть должным
+besoin;быть должным (внутренние причины)
+avoir besoin de;нуждаться, нужно
+devenir;становиться
+vivre;жить
+venir;приходить, приезжать
+aller;идти, ехать
+conduire;вести (машину), отвозить
+voir;видеть
+être assis;сидеть
+dire;сказать
+parler;разговаривать
+se tenir (debout);стоять
+travailler;работать
+casser;ломать
+faire;делать
+envoyer;посылать
+acheter;покупать
+nager;плавать
+dormir;спать
+réveiller;будить
+laver;мыть, cтирать
+essayer;пытаться, пробовать
+trouver;находить
+apporter;приносить, привозить
+célébrer;праздновать
+sourire;улыбаться
+pleurer;плакать
+coûter;стоить
+apprendre;учиться
+enseigner;обучать
+écrire;писать
+changer;менять
+tomber;падать
+écouter;слушать
+montrer;показывать
+gagner;побеждать
+penser;думать
+fermer;закрывать
+ouvrir;открывать
+savoir;знать
+connaître;быть знакомым
+chanter;петь
+danser;танцевать
+demander;спрашивать
+recueillir;собирать
+aimer;любить
+dessiner;рисовать
+choisir; выбирать
+vouloir;хотеть
+manger;кушать
+boire;пить
+donner;давать
+cuire;печь
+cuisinier;готовить (еду)
+couper;резать
+prendre;брать
+attendre;ждать
+lire;читать
+jouer;играть
+répondre;отвечать
+Bonjour;Здравствуй(те). Добрый день.
+Merci;Спасибо
+Pardon;Извини(те)
+S'il vous plaît;Пожалуйста (прошу)
+De rien;Пожалуйста (Не за что)
+Quel dommage;Как жаль
+Au revoir;до свидания
+la chanson;песня
+la musique;музыка
+la fête;вечеринка, праздник
+la taille;размер
+l'argent;деньги
+la chance;удача, шанс
+la blague;шутка
+la surprise;сюрприз
+le problème;проблема
+la faim; голод
+la météo;погода
+la pluie;дождь
+le vent;ветер
+la neige;снег
+le ciel;небо
